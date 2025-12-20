@@ -2,9 +2,9 @@
 
 <!-- Logos -->
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native Logo" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MacOS_logo.svg" alt="iOS Logo" width="50"/>
+<img src="../logos/react_native_logo.png" alt="React Native Logo" width="50"/>
+<img src="../logos/android_logo.png" alt="Android Logo" width="50"/>
+<img src="../logos/ios_logo.png" alt="iOS Logo" width="50"/>
 </p>
 
 <h2>1. Install Node.js and npm (Both Android & iOS)</h2>
