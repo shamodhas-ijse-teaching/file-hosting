@@ -31,8 +31,9 @@ echo %ANDROID_HOME%  # Windows
 </code></pre>
 
 <h3>2.3 Configure Android Emulator / Device</h3>
+<p>For detailed steps on configuring the Android Emulator, see the separate guide:</p>
 <ul>
-<li>Use AVD Manager in Android Studio to create an emulator</li>
+<li><a href="Android_Emulator_Setup.md" target="_blank">Android Emulator Setup Guide</a></li>
 <li>Or connect a physical Android device with USB debugging enabled</li>
 </ul>
 
