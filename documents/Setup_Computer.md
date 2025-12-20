@@ -60,8 +60,9 @@ echo %ANDROID_HOME%  # Windows
 </code></pre>
 
 <h3>3.3 Configure iOS Simulator / Device</h3>
+<p>For detailed steps on configuring the iOS Simulator, see the separate guide:</p>
 <ul>
-<li>Use Xcode Simulator</li>
+<li><a href="iOS_Simulator_Setup.md" target="_blank">iOS Simulator Setup Guide</a></li>
 <li>Or connect a physical iPhone/iPad</li>
 </ul>
 
@@ -83,4 +84,4 @@ cd MyApp
 <pre><code>npx react-native run-ios
 </code></pre>
 
-<p>Metro bundler will start automatically. Press <b>R</b> twice in the emulator to reload or use the developer menu for debugging.</p>
+<p>Metro bundler will start automatically. Press <b>R</b> twice in the emulator/simulator to reload or use the developer menu for debugging.</p>
