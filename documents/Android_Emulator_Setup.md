@@ -1,5 +1,11 @@
 <h1>Android Emulator Setup for React Native CLI</h1>
 
+<!-- Logos -->
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native Logo" width="50"/>
+</p>
+
 <h2>1. Open Android Studio</h2>
 <p>Ensure Android Studio is installed and the Android SDK is configured.</p>
 
